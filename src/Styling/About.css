@@ -1,0 +1,137 @@
+.About {
+    font-size: 1rem;
+    min-height: 100vh;
+  }
+  
+  /* .About .text-box {
+    width: 65%;
+    text-align: center;
+  } */
+  
+  /* .About .text-box h2 {
+    margin: 0;
+    font-size: 1.8rem;
+  } */
+  
+  .About .text-box h3 {
+    margin: 0 0 0.8rem;
+  }
+  
+  .About .text-box p {
+    margin: 0 0 0.7rem;
+    font-style: italic;
+  }
+  
+  .About p a {
+    display: inline-block;
+    color: #0088ffe0;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  
+  .About p a:hover {
+    background: linear-gradient(to top, #0088ff4c 0%, transparent);
+    color: #0088ff;
+  }
+  
+  .About .profile-box {
+    /* width: 30%; */
+    display: block;
+    margin-bottom: 1rem;
+  }
+  
+  .About .image-box {
+    width: 250px;
+    height: 250px;
+    overflow: hidden;
+    clip-path: polygon(
+      50% 0,
+      100% 25%,
+      100% 75%,
+      50% 100%,
+      0 75%,
+      0 25%
+    );
+  }
+  
+  .About .image-box img {
+    width: 250px;
+    height: 250px;
+    transform: scale(1.35);
+  }
+  .About .skills-box {
+    background-color: gray;
+    width: 60%;
+    min-height: 160px;
+  
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: center;
+  
+    padding: 0.9rem 0.9rem 1.1rem;
+  }
+  
+  .About .skills-box div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .About .skills-box img {
+    display: block;
+    width: 48px;
+    height: 48px;
+    margin: 12px 18px;
+  }
+  
+  .About .skills-box p {
+    margin: 0;
+    font-size: 0.9rem;
+    text-align: center;
+    display: block;
+    padding: 0 1.5px;
+  }
+  
+  .About .skills-box div:hover > p {
+    font-weight: 600;
+    padding: 0;
+  }
+  
+  @media screen and (max-width: 425px) {
+    .About .text-box {
+      width: 85%;
+    }
+  
+    .About .text-box h3 {
+      text-align: center;
+      margin-top: 0.5rem;
+      font-size: 1.1rem;
+    }
+  
+    .About .text-box p {
+      text-align: center;
+      margin-top: 0;
+      font-size: 1rem;
+    }
+  
+    .About .skills-box {
+      width: 85%;
+      margin-bottom: 8vh;
+      padding: 0.9rem;
+    }
+  
+    .About .skills-box div {
+      width: 30%;
+      justify-content: flex-start;
+      margin-bottom: 0.6rem;
+    }
+  
+    .About .skills-box img {
+      width: 35px;
+      height: 35px;
+      margin: 8px 12px;
+    }
+  }

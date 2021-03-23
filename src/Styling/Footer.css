@@ -1,0 +1,85 @@
+.Footer {
+    height: 35vh;
+    font-size: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+    background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCI+CjxmaWx0ZXIgaWQ9Im4iPgo8ZmVUdXJidWxlbmNlIHR5cGU9ImZyYWN0YWxOb2lzZSIgYmFzZUZyZXF1ZW5jeT0iLjciIG51bU9jdGF2ZXM9IjEwIiBzdGl0Y2hUaWxlcz0ic3RpdGNoIj48L2ZlVHVyYnVsZW5jZT4KPC9maWx0ZXI+CjxyZWN0IHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiBmaWxsPSIjMDAwIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSI1MDAiIGhlaWdodD0iNTAwIiBmaWx0ZXI9InVybCgjbikiIG9wYWNpdHk9IjAuNCI+PC9yZWN0Pgo8L3N2Zz4=');
+  }
+  
+  .Footer .container {
+    justify-content: flex-start;
+    padding: 0;
+  }
+  
+  .Footer h2 {
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    font-size: 1.6rem;
+  }
+  
+  .Footer h2::after {
+    content: '';
+    border-top: 2px solid #ffffff;
+    width: 60%;
+    display: block;
+    margin: 0.8rem auto 1.2rem;
+  }
+  
+  .footer-links {
+    width: 65%;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer-links a {
+    width: 6rem;
+    height: 4rem;
+    font-size: 0.9rem;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    text-decoration: none;
+    transition: 250ms ease-in-out;
+  }
+  
+  .footer-links svg,
+  .footer-links path {
+    width: 28px !important;
+    height: 28px !important;
+    fill: #ffffff;
+  }
+  
+  .footer-links a span {
+    margin-top: 0.5rem;
+  }
+  
+  .footer-links a:hover {
+    transform: scale(1.2);
+    font-weight: 600;
+    color: #bc1823;
+  }
+  
+  footer {
+    width: 100%;
+    max-width: 1140px;
+    font-size: 0.9rem;
+    text-align: right;
+    margin: auto auto 5vh;
+  }
+  
+  @media screen and (max-width: 425px) {
+    .footer-links a {
+      height: 30px;
+    }
+    .footer-links span {
+      display: none;
+    }
+    footer {
+      margin-bottom: 10vh;
+      text-align: center;
+    }
+  }
