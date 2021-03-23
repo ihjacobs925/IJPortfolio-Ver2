@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/IJPortfolio-Ver2/static/css/main.44bea9b4.chunk.css",
+    "main.js": "/IJPortfolio-Ver2/static/js/main.bf63d585.chunk.js",
+    "main.js.map": "/IJPortfolio-Ver2/static/js/main.bf63d585.chunk.js.map",
+    "runtime-main.js": "/IJPortfolio-Ver2/static/js/runtime-main.7f9927f2.js",
+    "runtime-main.js.map": "/IJPortfolio-Ver2/static/js/runtime-main.7f9927f2.js.map",
+    "static/js/2.1d9faeab.chunk.js": "/IJPortfolio-Ver2/static/js/2.1d9faeab.chunk.js",
+    "static/js/2.1d9faeab.chunk.js.map": "/IJPortfolio-Ver2/static/js/2.1d9faeab.chunk.js.map",
+    "static/js/3.467ed1f0.chunk.js": "/IJPortfolio-Ver2/static/js/3.467ed1f0.chunk.js",
+    "static/js/3.467ed1f0.chunk.js.map": "/IJPortfolio-Ver2/static/js/3.467ed1f0.chunk.js.map",
+    "index.html": "/IJPortfolio-Ver2/index.html",
+    "static/css/main.44bea9b4.chunk.css.map": "/IJPortfolio-Ver2/static/css/main.44bea9b4.chunk.css.map",
+    "static/js/2.1d9faeab.chunk.js.LICENSE.txt": "/IJPortfolio-Ver2/static/js/2.1d9faeab.chunk.js.LICENSE.txt",
+    "static/media/Chicago-art.adab6018.jpeg": "/IJPortfolio-Ver2/static/media/Chicago-art.adab6018.jpeg",
+    "static/media/css.d4c86ccd.svg": "/IJPortfolio-Ver2/static/media/css.d4c86ccd.svg",
+    "static/media/git.c60b7e5a.svg": "/IJPortfolio-Ver2/static/media/git.c60b7e5a.svg",
+    "static/media/github.740db6be.svg": "/IJPortfolio-Ver2/static/media/github.740db6be.svg",
+    "static/media/heroku.eef2b602.png": "/IJPortfolio-Ver2/static/media/heroku.eef2b602.png",
+    "static/media/html.3efc40a5.svg": "/IJPortfolio-Ver2/static/media/html.3efc40a5.svg",
+    "static/media/js.13ceb963.svg": "/IJPortfolio-Ver2/static/media/js.13ceb963.svg",
+    "static/media/mongodb.f835fb7a.svg": "/IJPortfolio-Ver2/static/media/mongodb.f835fb7a.svg",
+    "static/media/nodejs.d305bcca.svg": "/IJPortfolio-Ver2/static/media/nodejs.d305bcca.svg",
+    "static/media/postgresql.ae92b576.svg": "/IJPortfolio-Ver2/static/media/postgresql.ae92b576.svg",
+    "static/media/python.e6d7dc73.svg": "/IJPortfolio-Ver2/static/media/python.e6d7dc73.svg",
+    "static/media/react.add74742.svg": "/IJPortfolio-Ver2/static/media/react.add74742.svg",
+    "static/media/sequelize.70ccab6c.svg": "/IJPortfolio-Ver2/static/media/sequelize.70ccab6c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f9927f2.js",
+    "static/js/2.1d9faeab.chunk.js",
+    "static/css/main.44bea9b4.chunk.css",
+    "static/js/main.bf63d585.chunk.js"
+  ]
+}
