@@ -14,15 +14,15 @@ const Footer = () => {
       <div className='container'>
         <h2>Find Me Online</h2>
         <div className='footer-links'>
-          <a href='mailto:ihjacobs925@gmail.com'>
+          <a href='mailto:ihjacobs925@gmail.com' target="_blank">
             <FontAwesomeIcon icon={faEnvelope} size='6x' />
             <span>Email</span>
           </a>
-          <a href='https://www.linkedin.com/in/ianjacobs925/'>
+          <a href='https://www.linkedin.com/in/ianjacobs925/' target="_blank">
             <FontAwesomeIcon icon={faLinkedin} size='6x' />
             <span>LinkedIn</span>
           </a>
-          <a href='https://github.com/ihjacobs925'>
+          <a href='https://github.com/ihjacobs925' target="_blank">
             <FontAwesomeIcon icon={faGithub} size='6x' />
             <span>GitHub</span>
           </a>

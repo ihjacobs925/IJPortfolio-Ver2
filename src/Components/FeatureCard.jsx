@@ -79,10 +79,10 @@ class FeatureCard extends Component {
               <em>Built With: {builtWith}</em>
             </section>
             <section className='link-box'>
-              <a href={github} onClick={(e) => e.stopPropagation()}>
+              <a href={github} target="_blank" onClick={(e) => e.stopPropagation()}>
                 Github
               </a>
-              <a href={live} onClick={(e) => e.stopPropagation()}>
+              <a href={live} target="_blank" onClick={(e) => e.stopPropagation()}>
                 Live Demo
               </a>
             </section>
