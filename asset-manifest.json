@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/IJPortfolio-Ver2/static/css/main.44bea9b4.chunk.css",
-    "main.js": "/IJPortfolio-Ver2/static/js/main.bf63d585.chunk.js",
-    "main.js.map": "/IJPortfolio-Ver2/static/js/main.bf63d585.chunk.js.map",
+    "main.js": "/IJPortfolio-Ver2/static/js/main.c36f7355.chunk.js",
+    "main.js.map": "/IJPortfolio-Ver2/static/js/main.c36f7355.chunk.js.map",
     "runtime-main.js": "/IJPortfolio-Ver2/static/js/runtime-main.7f9927f2.js",
     "runtime-main.js.map": "/IJPortfolio-Ver2/static/js/runtime-main.7f9927f2.js.map",
-    "static/js/2.1d9faeab.chunk.js": "/IJPortfolio-Ver2/static/js/2.1d9faeab.chunk.js",
-    "static/js/2.1d9faeab.chunk.js.map": "/IJPortfolio-Ver2/static/js/2.1d9faeab.chunk.js.map",
+    "static/js/2.e1508f46.chunk.js": "/IJPortfolio-Ver2/static/js/2.e1508f46.chunk.js",
+    "static/js/2.e1508f46.chunk.js.map": "/IJPortfolio-Ver2/static/js/2.e1508f46.chunk.js.map",
     "static/js/3.467ed1f0.chunk.js": "/IJPortfolio-Ver2/static/js/3.467ed1f0.chunk.js",
     "static/js/3.467ed1f0.chunk.js.map": "/IJPortfolio-Ver2/static/js/3.467ed1f0.chunk.js.map",
     "index.html": "/IJPortfolio-Ver2/index.html",
     "static/css/main.44bea9b4.chunk.css.map": "/IJPortfolio-Ver2/static/css/main.44bea9b4.chunk.css.map",
-    "static/js/2.1d9faeab.chunk.js.LICENSE.txt": "/IJPortfolio-Ver2/static/js/2.1d9faeab.chunk.js.LICENSE.txt",
+    "static/js/2.e1508f46.chunk.js.LICENSE.txt": "/IJPortfolio-Ver2/static/js/2.e1508f46.chunk.js.LICENSE.txt",
     "static/media/Chicago-art.adab6018.jpeg": "/IJPortfolio-Ver2/static/media/Chicago-art.adab6018.jpeg",
+    "static/media/Ian_Jacobs_Resume.651c8c52.pdf": "/IJPortfolio-Ver2/static/media/Ian_Jacobs_Resume.651c8c52.pdf",
+    "static/media/Starter.e6073912.JPG": "/IJPortfolio-Ver2/static/media/Starter.e6073912.JPG",
     "static/media/css.d4c86ccd.svg": "/IJPortfolio-Ver2/static/media/css.d4c86ccd.svg",
     "static/media/git.c60b7e5a.svg": "/IJPortfolio-Ver2/static/media/git.c60b7e5a.svg",
     "static/media/github.740db6be.svg": "/IJPortfolio-Ver2/static/media/github.740db6be.svg",
@@ -28,8 +30,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7f9927f2.js",
-    "static/js/2.1d9faeab.chunk.js",
+    "static/js/2.e1508f46.chunk.js",
     "static/css/main.44bea9b4.chunk.css",
-    "static/js/main.bf63d585.chunk.js"
+    "static/js/main.c36f7355.chunk.js"
   ]
 }
