@@ -12,8 +12,8 @@ const Projects = (props) => {
     <div className='Projects' id='Projects'>
       <div className='container'>
         <h2>Projects</h2>
+        <h4>Algo Sorter</h4>
         <section className='cards'>
-          {/* Project Cards */}
           {cards}
         </section>
       </div>

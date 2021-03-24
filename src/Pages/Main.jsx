@@ -1,6 +1,8 @@
 import React from 'react';
 import '../Styling/Main.css';
 
+import Resume from '../Data/Ian_Jacobs_Resume.pdf';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
   faEnvelope,
@@ -34,10 +36,10 @@ const Main = () => {
           <span>Email</span>
         </a>
 
-        {/* <a href={Resume}>
+        <a href={Resume}>
           <FontAwesomeIcon icon={faFileAlt} size='lg' />
           <span>Resume</span>
-        </a> */}
+        </a>
       </div>
     </div>
   );
