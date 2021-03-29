@@ -5,7 +5,7 @@ import Main from './Pages/Main';
 import About from './Pages/About';
 import Projects from'./Pages/Projects';
 import Nav from './Components/Nav';
-import Contact from './Pages/Contact';
+import Contact1 from './Pages/Contact1';
 import Footer from './Pages/Footer';
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
         <Main />
         <About />
         <Projects /> 
-        <Contact />
+        <Contact1 />
         <Footer />
       </main>
 

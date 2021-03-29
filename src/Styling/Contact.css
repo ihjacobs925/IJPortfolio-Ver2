@@ -9,7 +9,7 @@
     clip-path: polygon(0 0, 100% 0, 100% 75%, 50% 95%, 0 75%);
     background-color: #dddddd;
     min-height: 50vh;
-    height: 65vh;
+    height: 70vh;
     padding: 5vh 0;
   }
   
@@ -28,6 +28,7 @@
   
   .contact-name,
   .contact-email,
+  .contact-subject,
   .contact-message {
     font-size: 1rem;
     padding: 5px 10px;
@@ -37,22 +38,24 @@
   }
   
   .contact-name,
-  .contact-email {
-    width: 49%;
+  .contact-email,
+  .contact-subject {
+    width: 100%;
   }
   
   .contact-message {
     resize: vertical;
-    width: 100%;
-    min-height: 130px;
+    height: 200px;
+    width: 143%;
+    min-height: 100px;
     max-height: 29vh;
   }
   
   .contact-submit {
-    margin: 5px auto;
+    margin: 10px auto;
     font-size: 1.1rem;
     font-weight: 700;
-    width: 50%;
+    width: 350%;
     padding: 0.5rem;
     border: 2px solid #333333;
     background-color: #eeeeee;
@@ -100,7 +103,7 @@
     margin: 0 0 1.2rem;
   }
   
-  .thanks p {
+  .sent p {
     margin: 0;
     font-size: 1rem;
   }
