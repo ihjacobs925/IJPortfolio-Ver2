@@ -12,7 +12,9 @@ const Projects = (props) => {
     <div className='Projects' id='Projects'>
       <div className='container'>
         <h2>Projects</h2>
-        <h4>Algo Sorter</h4>
+        <h5>Please click on the cards to flip and see a summary of info 
+          for each project as well as links to live demos and Github repos.
+        </h5>
         <section className='cards'>
           {cards}
         </section>
