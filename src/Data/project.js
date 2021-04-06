@@ -1,5 +1,6 @@
 import Algo from '../Img/Algo.png'
 import Tetris from '../Img/Tetris.png'
+import BravoAPI from '../Img/BravoAPI.png'
 
 export const feature = [
     {
@@ -12,6 +13,16 @@ export const feature = [
       live: 'https://algorithm-sorter.herokuapp.com/',
       image:
         Algo,
+    },
+    {
+      title: 'Bravo API',
+      description: 'Group Programming Project, built and consumed our own API using the MERN stack. I was responsible for the backend using Node.JS to create the endpoints as well as using MongoDB/Atlas to set up our database. The Github repo link given is to the collaborative repo for the API',
+      techs: ['MERN Stack'],
+      builtWith: ['MERN Stack'],
+      github: 'https://github.com/Brianhin94/RealrealhousewivesAPI',
+      live: 'https://bravoapi.netlify.app/',
+      image:
+        BravoAPI,
     },
     {
       title: 'Tetris' ,

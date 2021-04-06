@@ -36,6 +36,7 @@ class FeatureCard extends Component {
       techs,
       builtWith,
       github,
+      github1,
       live,
       image,
     } = this.props.project;
