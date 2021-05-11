@@ -46,7 +46,7 @@
   .contact-message {
     resize: vertical;
     height: 200px;
-    width: 143%;
+    width: 100%;
     min-height: 100px;
     max-height: 29vh;
   }
@@ -55,7 +55,7 @@
     margin: 10px auto;
     font-size: 1.1rem;
     font-weight: 700;
-    width: 350%;
+    width: 100%;
     padding: 0.5rem;
     border: 2px solid #333333;
     background-color: #eeeeee;

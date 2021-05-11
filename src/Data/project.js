@@ -1,8 +1,20 @@
 import Algo from '../Img/Algo.png'
 import Tetris from '../Img/Tetris.png'
 import BravoAPI from '../Img/BravoAPI.png'
+import Football_Stats from '../Img/Football_Stats.png'
 
 export const feature = [
+    {
+      title: 'Football Stats',
+      description:
+        'Football Stats was built using statistics from the Pro-Football-Reference website. It is a Python data scraper meant to better visualize the data to be used for the purpose of fantasy football.',
+      techs: ['Python', 'Matplotlib', 'Streamlit'],
+      builtWith: ['Python', 'Matplotlib', 'Streamlit'],
+      github: 'https://github.com/ihjacobs925/football_stats',
+      live: 'https://footballstatspyapp.herokuapp.com/',
+      image:
+        Football_Stats,
+    },
     {
       title: 'Algo Sorter' ,
       description:
